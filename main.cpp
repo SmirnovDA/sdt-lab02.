@@ -6,5 +6,6 @@ int main() {
     cin >> a >> b ;
     cout << endl;
     cout << "A + B = " << a + b << '\n';
+    cout<<"A-B= " <<a - b <<'\n';
  system("pause");
 }
